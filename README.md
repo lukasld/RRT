@@ -1,7 +1,6 @@
 # Rapidly Expanding Random Trees
 
-
-[rrt]: https://ibb.co/TLQZg85 "Single RRT"
+[<img src="https://i.ibb.co/k1LpS8F/rrt-single.png">]
 
 This is an approach to implement RRT's from scratch, RRT's allow for multi-dimensional path-planning and object-collision-detection.<br>
 The code is written entirely without `numpy`, it simply uses a library which depends on numpy to visualize the tree.
