@@ -6,6 +6,6 @@
 
 
 
-## Todo
-# RRT*
-# make a library
+### Todo ### 
+- RRT*
+- make a library 
